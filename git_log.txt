@@ -1,0 +1,50 @@
+commit 458d30208f7c9186a7f6f5ec6df13b8c6d112cf8
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Mon Feb 2 17:30:46 2026 -0800
+
+    Added favorite game
+
+commit 65ed2ad8d72936871f1939556b791f19e4b33ae5
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Fri Jan 30 11:16:53 2026 -0800
+
+    Added favorite food
+
+commit 2cedcd7cf764c35997b1c3ce7fe0740c07701d6e
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Fri Jan 30 11:13:39 2026 -0800
+
+    Added my favorite game
+
+commit b6776a9e050adcc8a4fa6d1a17e5ef8cb9e21cce
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Fri Jan 30 11:12:09 2026 -0800
+
+    Added favorite food line
+
+commit bb99b8a8a341573e9b4e32d9c007d590f06fa3c7
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Fri Jan 30 11:09:38 2026 -0800
+
+    Added README file
+
+commit ef8a31b5e40322aa971288a5e3c294c9bcdae108
+Merge: 1d2bfc0 372a252
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Fri Jan 30 11:03:35 2026 -0800
+
+    Merge pull request #1 from Davidgg204/info-fill
+    
+    Filled in the blanks with my name and hobby
+
+commit 372a252b67e825bb8c7bdfa4f1044af208bd7f0f
+Author: David Gomez <dgomez149@calstatela.edu>
+Date:   Fri Jan 30 10:29:35 2026 -0800
+
+    Filled in the blanks with my name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
